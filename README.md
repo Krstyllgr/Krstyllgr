@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kristyl!</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Web Developer</h3>
 <img align="right" alt="Cat Computer" width="400" src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif">
 
 - 🔭 I’m currently working on **my website portfolio.**
