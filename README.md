@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **my website portfolio.**
 
-- 🌱 I’m currently learning **Tailwind and Javascript.**
+- 🌱 I’m currently learning **Bootstrap5 and ReactJS.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Krstyllgr](https://github.com/Krstyllgr)
 
